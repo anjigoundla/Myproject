@@ -1,2 +1,3 @@
 This is git[A[A[A[B[B[Bwelcome to DevOps
 Welcome to remote
+Go back to Git bash
